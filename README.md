@@ -10,7 +10,7 @@ Small group, accountability focused habit tracking
 
 Time management centered around "tickets"
 
-## And a few more I can't share the details of yet...
+### And a few more I can't share the details of yet...
 
 <!---
 dylan-roussin/dylan-roussin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
