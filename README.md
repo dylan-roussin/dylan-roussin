@@ -1,6 +1,6 @@
 # Hey! I'm @dylan-roussin.
 
-- I'm working a few different full stack development projects that I hope to show off soon!
+- I'm working on a few different full stack development projects that I hope to show off soon!
 
 <!---
 dylan-roussin/dylan-roussin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
